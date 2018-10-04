@@ -1,5 +1,8 @@
 # SNKRS
 Nike SNKRs US Monitor
 
-1) Have Python installed with requests and BeautifulSoup4
-2) Insert proxies into the file and run it!
+1) Have Python and pip installed
+2) pip install requests and BeautifulSoup4
+3) enter proxies into the script where designated and save it
+4) open CMD and change directory to where monitor.py is located
+5) type Python monitor.py and press enter
