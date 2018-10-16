@@ -35,16 +35,8 @@ user_agent_list = [
 
 #place proxies in the displayed form of user:password@ip:port as shown below
 proxy_list = [
-    'https': 'https://user:pass@ip:port',
-    'https': 'https://user:pass@ip:port',
-    'https': 'https://user:pass@ip:port',
-    'https': 'https://user:pass@ip:port',
-    'https': 'https://user:pass@ip:port',
-    'https': 'https://user:pass@ip:port',
-    'https': 'https://user:pass@ip:port',
-    'https': 'https://user:pass@ip:port',
-    'https': 'https://user:pass@ip:port',
-    'https': 'https://user:pass@ip:port',
+    'http': 'http://sh:sh12345@54.174.250.196:3128',
+    'https': 'http://sh:sh12345@54.174.250.196:3128',
      #If you want to add more proxies for a lower monitor delay just continue what i've done in the proxy_list
 ]
 #insert discord webhook
